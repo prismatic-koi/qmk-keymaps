@@ -1,7 +1,7 @@
 # most of this copied from https://github.com/patrick-elmquist/qmk-keymaps
 # I have left out the user folder for now
 
-USER = lucidph3nx
+USER = prismatic-koi
 KEYBOARDS = mode_envoy mokey_ginkgo65
 
 # keyboard name
