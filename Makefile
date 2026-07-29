@@ -1,7 +1,7 @@
 # most of this copied from https://github.com/patrick-elmquist/qmk-keymaps
 # I have left out the user folder for now
 
-USER = prismatic-koi
+USER = prismatic_koi
 KEYBOARDS = mode_envoy
 
 # keyboard name
