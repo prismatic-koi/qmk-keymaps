@@ -19,6 +19,7 @@
             git
             (python3.withPackages (ps: [ ps.appdirs ]))
             gcc-arm-embedded
+            dfu-util
           ];
         };
       });
