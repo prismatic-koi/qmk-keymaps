@@ -17,7 +17,7 @@
             qmk
             gnumake
             git
-            (python3.withPackages (ps: [ ps.appdirs ]))
+            (python3.withPackages (ps: [ ps.platformdirs ]))
             gcc-arm-embedded
             dfu-util
           ];
